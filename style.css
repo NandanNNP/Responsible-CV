@@ -41,6 +41,7 @@ a{
     align-items: center;
     padding-bottom: 20px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+    margin-bottom: 5px;
 }
 .profileText .imgBx{
     position: relative;
@@ -72,7 +73,7 @@ a{
     font-weight: 300;     
 }
 .contactInfo{
-    padding-top: 15px;/*padding-top: 40px;*/
+    padding-top: 5px;/*padding-top: 40px;*/
 }
 .title{
     color: #fff;
@@ -164,7 +165,7 @@ p{
 .about .box{
     display: flex;
     flex-direction: col;
-    margin: 20px 0;/*margin: 20px 0;*/
+    margin: 19px 0;/*margin: 20px 0;*/
 }
 .about .box .year_company{
     min-width: 150px;
