@@ -41,7 +41,7 @@ a{
     align-items: center;
     padding-bottom: 20px;
     border-bottom: 1px solid rgba(255, 255, 255, 0.2);
-    margin-bottom: 5px;
+    margin-bottom: 5px; /*Addition*/
 }
 .profileText .imgBx{
     position: relative;
@@ -165,7 +165,7 @@ p{
 .about .box{
     display: flex;
     flex-direction: col;
-    margin: 19px 0;/*margin: 20px 0;*/
+    margin: 20px 0;/*margin: 20px 0;*/
 }
 .about .box .year_company{
     min-width: 150px;
